@@ -1,0 +1,27 @@
+{
+  "name": "mikemurraydev.github.io",
+  "version": "1.0.0",
+  "description": "Personal development portfolio and site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeMurrayDev/mikemurraydev.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeMurrayDev/mikemurraydev.github.io/issues"
+  },
+  "homepage": "https://github.com/MikeMurrayDev/mikemurraydev.github.io#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.17.1",
+    "parcel": "^1.12.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
