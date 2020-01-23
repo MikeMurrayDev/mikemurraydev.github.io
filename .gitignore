@@ -1,8 +1,10 @@
-lib-cov
-coverage
+.cache
 .DS_Store
-logs
+.env
 *.log
-node_modules
 .vscode
+coverage
 dist
+lib-cov
+logs
+node_modules
